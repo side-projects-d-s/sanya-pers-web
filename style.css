@@ -101,3 +101,15 @@ a:hover {
 a:link {
     color: rgb(94, 53, 0);
 }
+
+a.normalinks {
+    color: blue;
+}
+
+a.normalinks:link {
+    color: blue;
+}
+
+a.normalinks:hover {
+    color: rgb(5, 5, 70);
+}
